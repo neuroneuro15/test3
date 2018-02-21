@@ -1,0 +1,1 @@
+jupyter nbconvert --to html --FilesWriter.build_directory=html *.ipynb
